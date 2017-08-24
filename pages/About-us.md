@@ -18,12 +18,12 @@ allow Javascript to be used as a server-side language. We have grown and evolved
   </div>
   
 Romain Prieto
-The founder of Node Sydney
+The founder of Node Sydney - Master
 
 <img src="/assets/images/gallery/James.jpg" />
 James Richardson
-Co-Organiser - Very good at mucking about
+Co-Organiser - "Node? I was told there'd be beer"
 
 <img src="/assets/images/gallery/Jess.jpg" />
 Jess Edwards
-Co-Organiser - The brains, brawn and personality
+Co-Organiser - Brains, brawn and drive

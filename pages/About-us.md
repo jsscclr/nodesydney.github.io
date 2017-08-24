@@ -5,25 +5,26 @@ description: null
 nav-menu: true
 ---
 
+<h1>About Us</h1>
 
-# About Us
+Originally founded as <em>Node Ninjas</em> back in 2012 by Romain as an informal meetup, to discuss and learn about a new technology to allow Javascript to be used as a server-side language. We have grown and evolved from there to support all things Node in Sydney.
 
-Originally founded as Node Ninjas back in 2011 by Romain Prieto as an informal meetup to discuss and learn about a new technology to
-allow Javascript to be used as a server-side language. We have grown and evolved from there to support all things node in Sydney. 
-
-# The Team
+<h2>The Team</h2>
 
 <div class="row">
-<div class "3u 12u$(small)"><img src="/assets/images/gallery/Romain.jpg"/></div>
+  <div class="3u 4u(medium) 12u$(small)">
+    <strong>Romain Prieto</strong><br />
+    <img src="/assets/images/team/romain.jpg"/><br />
+    Founder<br /><em>Not actually a ninja</em><hr />
   </div>
-  
-Romain Prieto
-The founder of Node Sydney - Master
-
-<img src="/assets/images/gallery/James.jpg" />
-James Richardson
-Co-Organiser - "Node? I was told there'd be beer"
-
-<img src="/assets/images/gallery/Jess.jpg" />
-Jess Edwards
-Co-Organiser - Brains, brawn and drive
+  <div class="3u 4u(medium) 12u$(small)">
+    <strong>James Richardson</strong><br />
+    <img src="/assets/images/team/james.jpg" /><br />
+    Co-Organiser<br /><em>"Node? I was told there'd be beer"</em><hr />
+  </div>
+  <div class="3u 4u(medium) 12u$(small)">
+    <strong>Jess Edwards</strong><br />
+    <img src="/assets/images/team/jess.jpg" /><br />
+    Co-Organiser<br /><em>Brains, brawn and drive</em><hr />
+  </div>
+</div>

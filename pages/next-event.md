@@ -3,8 +3,6 @@ layout: page
 title: Next event
 nav-menu: true
 description: 7 September 2017
-image: null
-author: null
 ---
 
 # Next event
@@ -30,5 +28,3 @@ Looking for a speaker. Please <a href="pages/contact.html">contact us</a> if you
     <a href="https://www.meetup.com/sydney-node-ninjas/events/238092619/" class="button">RSVP on Meetup.com (limited seats)</a>
   </li>
 </ul>
-
-<img src="/assets/images/sponsors/tabcorp.jpg" height="80" />

@@ -2,7 +2,7 @@
 layout: page
 title: About us
 description: null
-nav-menu: true
+nav-menu: false
 ---
 
 <h1>About Us</h1>
@@ -28,3 +28,7 @@ Originally founded as <em>Node Ninjas</em> back in 2012 by Romain as an informal
     Co-Organiser<br /><em>Brains, brawn and drive</em><hr />
   </div>
 </div>
+
+<ul class="actions">
+  <li><a href="/pages/contact.html" class="button next">Get in touch</a></li>
+</ul>

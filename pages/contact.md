@@ -2,7 +2,7 @@
 layout: page
 title: Contact us
 description: null
-nav-menu: true
+nav-menu: false
 ---
 
 Do you want to present at an upcoming event?

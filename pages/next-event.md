@@ -17,9 +17,11 @@ So many security headers and so easy to get them wrong. In this presentation, I 
 
 <blockquote>Pedram H. <br />Pedram is a Security Consultant and Partner for elttam (https://www.elttam.com.au). He is also instructor for Professional Hacker training course.</blockquote>
 
-## 7:30pm
+## 7:30pm Cassandra DB: Starting the right way
 
-Looking for a speaker. Please <a href="pages/contact.html">contact us</a> if you are interested.
+You will get a basic understanding of how data is stored. You are going to learn how to model your Cassandra tables in a performance friendly way. We will run through a real world example. 
+
+<blockquote>Vasyl Boroviak. <br />Vasyl used to develop Cassandra backed high throughput applications. He wrote a series of blog posts on Cassandra which have become the go to guide for Russian speaking developers.</blockquote>
 
 ---
 

@@ -17,9 +17,11 @@ From functional patterns to algebraic data types, discover how functional progra
 
 <blockquote>Joachim Bachstätter</blockquote>
 
-## 7:30pm <TBD>
+## 7:30pm Why you can't do two things at once
 
-<blockquote>TBD</blockquote>
+People like to throw around "JavaScript is single threaded!", but what does this actually mean for Node developers? In case you're busy, it means you can't do two things at once - but if you're free, you can learn all the different ways you can't do two things at once, or why it feels like you're doing two things at once. To wrap up, we'll cover how sometimes, you can do two things at once.
+
+<blockquote>Jessica Edwards</blockquote>
 
 ---
 

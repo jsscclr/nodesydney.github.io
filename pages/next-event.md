@@ -25,6 +25,6 @@ From functional patterns to algebraic data types, discover how functional progra
 
 <ul class="actions">
   <li>
-    <a href="https://www.meetup.com/sydney-node-ninjas/events/238092619/" class="button">RSVP on Meetup.com (limited seats)</a>
+    <a href="https://www.meetup.com/sydney-node-ninjas/events/238092633/" class="button">RSVP on Meetup.com (limited seats)</a>
   </li>
 </ul>

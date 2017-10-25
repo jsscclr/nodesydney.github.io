@@ -43,11 +43,14 @@
 
 	#sponsors {
 		background-color: #eee;
+	}
+
+	.row.sponsors {
 		a {
 			border: none;
 			cursor: pointer;
 		}
 		img {
-			border: 1px solid #242943;
+    		border: 1px solid #242943;
 		}
 	}

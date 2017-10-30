@@ -29,6 +29,11 @@ Thanks for all the effort helping us organise the events, as well as providing a
       <img src="/assets/images/sponsors/luxgroup.png" alt="Luxgroup" />
     </a>
   </div>
+  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
+    <a href="https://www.siteminder.com">
+      <img src="/assets/images/sponsors/siteminder.png" alt="SiteMinder" />
+    </a>
+  </div>
 </div>
 
 <br />
@@ -36,11 +41,6 @@ Thanks for all the effort helping us organise the events, as well as providing a
 <h2>Past sponsors</h2>
 
 <div class="row sponsors">
-  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-    <a href="https://www.siteminder.com">
-      <img src="/assets/images/sponsors/siteminder.png" alt="SiteMinder" />
-    </a>
-  </div>
   <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
     <a href="https://thoughtworks.com">
       <img src="/assets/images/sponsors/thoughtworks.png" alt="ThoughtWorks" />

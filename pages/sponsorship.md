@@ -78,6 +78,19 @@ Official sponsors are expected to
 - Host 4 meetups every year. The indicative cost of hosting a meetup is AUD 1200 which includes pizzas, beers and soft drinks.
 - Participate in sundry expenses up to AUD 200 per year (e.g. [meetup.com](https://meetup.com) organiser fee, web hosting, banners).
 
+**Catering**
+
+The typical attendance for the meetup is 90-130. The best way to assess attendance it to look at the RSVP list on [meetup.com](https://www.meetup.com/node-sydney) and account for 65% turnout. For example 170 RSVPs usually means 110 attendees.
+
+A good rule of thumb for catering is:
+
+- 1 large pizza for every 3 people + some snacks
+- 1 case of beer for every 25 people
+- 1 case of soft drinks or 5 large bottles for every 50 people
+
+Of course sponsors are welcome and encouraged to think outside the pizza box if they wish to!
+Please make sure to include vegetarian and gluten-free options.
+
 <ul class="actions">
   <li><a href="/pages/contact.html" class="button next">Get in touch</a></li>
 </ul>

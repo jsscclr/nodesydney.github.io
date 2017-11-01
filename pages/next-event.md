@@ -21,6 +21,15 @@ We'll also cover Angular Material2, CDK and other UI libraries developers can us
 
 ## 7:30pm Looking for a speaker
 
+
+## 8:15pm Lightning talk: Hidden Tech Challenge
+
+Hidden Tech Challenge an amazing geolocated quiz around Sydney.
+
+With your phone, walk around your favorite city to find our challenges and answer the questions. Amazing Prizes to win throughout the entire game.
+
+<blockquote>William Ong</blockquote>
+
 ---
 
 <ul class="actions">

@@ -1,0 +1,55 @@
+# ------------
+# Current sponsors
+# ------------
+
+tabcorp:
+  name: Tabcorp
+  address: Level 31, 680 George St, Sydney
+  map: https://www.google.com.au/maps/place/680+George+St,+Sydney+NSW+2000/@-33.8773271,151.2039252,17z
+  logo: /assets/images/sponsors/tabcorp.png
+  website: http://luxgroup.com
+  current: true
+
+luxgroup:
+  name: LuxGroup
+  address: Level 12, 201 Kent Street, Sydney
+  map: https://www.google.com.au/maps/place/12%2F201+Kent+St,+Sydney+NSW+2000/@-33.86392,151.2014322,17z
+  logo: /assets/images/sponsors/luxgroup.png
+  website: https://www.luxgroup.com
+  current: true
+
+siteminder:
+  name: SiteMinder
+  address: 88 Cumberland St, The Rocks NSW 2000
+  map: https://www.google.com.au/maps/place/SiteMinder+Sydney/@-33.858387,151.20544,17z
+  logo: /assets/images/sponsors/siteminder.png
+  website: https://siteminder.com
+  current: true
+
+# ------------
+# Old sponsors
+# ------------
+
+thoughtworks:
+  name: ThoughtWorks
+  address: Level 8, 51 Pitt St, Sydney
+  map: https://www.google.com.au/maps/place/51+Pitt+St,+Sydney+NSW+2000/@-33.8631494,151.2071066,17z
+  logo: /assets/images/sponsors/thoughtworks.png
+  website: https://tabcorp.com.au
+  current: false
+
+mi9:
+  name: MI9
+  address: Level 6, Australia Square, 264 George St, Sydney NSW 2000
+  map: https://www.google.com.au/maps/place/Mi9/@-33.8650496,151.205876,17z
+  logo: /assets/images/sponsors/mi9.png
+  website: https://mi9.com.au
+  current: false
+
+newcorp:
+  name: NewsCorp
+  address: 2 Holt St, Surry Hills NSW 2010
+  map: https://www.google.com.au/maps/place/News+Corp+Australia/@-33.8851908,151.2074431,17z
+  logo: /assets/images/sponsors/newscorp.png
+  website: http://www.newscorpaustralia.com
+  current: false

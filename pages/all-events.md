@@ -10,9 +10,5 @@ author: null
 # All events
 
 {% for post in site.posts %}
-
-## {{ post.title }}
-[See meetup details]({{ post.url }})
-<hr />
-
+- [{{ post.date | date: "%B %Y"}}]({{ post.url }})
 {% endfor %}

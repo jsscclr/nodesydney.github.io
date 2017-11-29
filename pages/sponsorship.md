@@ -19,21 +19,16 @@ Thanks for all the effort helping us organise the events, as well as providing a
 <h2>Current sponsors</h2>
 
 <div class="row sponsors">
-  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-    <a href="https://tabcorp.com.au">
-      <img src="/assets/images/sponsors/tabcorp.png" alt="Tabcorp" />
-    </a>
-  </div>
-  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-    <a href="http://luxgroup.com">
-      <img src="/assets/images/sponsors/luxgroup.png" alt="Luxgroup" />
-    </a>
-  </div>
-  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-    <a href="https://www.siteminder.com">
-      <img src="/assets/images/sponsors/siteminder.png" alt="SiteMinder" />
-    </a>
-  </div>
+{% for entry in site.data.sponsors %}
+  {% assign sponsor = entry[1] %}
+  {% if sponsor.current %}
+<div class="3u 4u(medium) 6u(small) 8u(xsmall)">
+  <a href="{{ sponsor.website }}">
+    <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+  </a>
+</div>
+  {% endif %}
+{% endfor %}
 </div>
 
 <br />
@@ -41,21 +36,16 @@ Thanks for all the effort helping us organise the events, as well as providing a
 <h2>Past sponsors</h2>
 
 <div class="row sponsors">
-  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-    <a href="https://thoughtworks.com">
-      <img src="/assets/images/sponsors/thoughtworks.png" alt="ThoughtWorks" />
-    </a>
-  </div>
-  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-    <a href="https://mi9.com.au">
-      <img src="/assets/images/sponsors/mi9.png" alt="MI9" />
-    </a>
-  </div>
-  <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-    <a href="http://www.newscorpaustralia.com/">
-      <img src="/assets/images/sponsors/newscorp.png" alt="NewsCorp" />
-    </a>
-  </div>
+{% for entry in site.data.sponsors %}
+  {% assign sponsor = entry[1] %}
+  {% if sponsor.current == false %}
+<div class="3u 4u(medium) 6u(small) 8u(xsmall)">
+  <a href="{{ sponsor.website }}">
+    <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+  </a>
+</div>
+  {% endif %}
+{% endfor %}
 </div>
 
 <br />

@@ -37,7 +37,7 @@ description: null
         <div class="stat"><strong>100+</strong> regular attendees</div>
       </div>
       <div class="4u 12u$(medium)">
-        <div class="stat"><strong>39</strong> events and counting</div>
+        <div class="stat"><strong>41</strong> events and counting</div>
       </div>
     </div>
 	</div>
@@ -53,7 +53,8 @@ description: null
       <article>
         <span class="image"><img src="{{ page.image }}" alt="" /></span>
         <header class="major">
-          <h3><a href="/pages/next-event.html" class="link">Next event</a></h3>
+          {% assign latest = site.posts[0] %}
+          <h3><a href="{{ latest.url }}" class="link">Next event</a></h3>
           <p>Register for next month's event. All details inside.</p>
         </header>
       </article>
@@ -116,21 +117,16 @@ description: null
           Read more about sponsorship <a href="/pages/sponsorship.html">here</a>.
         </p>
         <div class="row sponsors">
-          <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-            <a href="https://tabcorp.com.au">
-              <img src="/assets/images/sponsors/tabcorp.png" alt="Tabcorp" />
-            </a>
-          </div>
-          <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-            <a href="http://luxgroup.com">
-              <img src="/assets/images/sponsors/luxgroup.png" alt="Luxgroup" />
-            </a>
-          </div>
-          <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
-            <a href="https://www.siteminder.com">
-              <img src="/assets/images/sponsors/siteminder.png" alt="SiteMinder" />
-            </a>
-          </div>
+          {% for entry in site.data.sponsors %}
+            {% assign sponsor = entry[1] %}
+            {% if sponsor.current %}
+              <div class="3u 4u(medium) 6u(small) 8u(xsmall)">
+                <a href="{{ sponsor.website }}">
+                  <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+                </a>
+              </div>
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
       <br />

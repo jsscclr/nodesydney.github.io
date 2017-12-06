@@ -46,7 +46,7 @@ mi9:
   website: https://mi9.com.au
   current: false
 
-newcorp:
+newscorp:
   name: NewsCorp
   address: 2 Holt St, Surry Hills NSW 2010
   map: https://www.google.com.au/maps/place/News+Corp+Australia/@-33.8851908,151.2074431,17z

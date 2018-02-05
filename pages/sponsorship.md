@@ -10,7 +10,7 @@ nav-menu: false
 <em>Node Sydney</em> only exists thanks to
 
 - our awesome attendees
-- the hard-woring organisers
+- the hard-working organisers
 - our sponsors!
 
 A massive thanks to the many great Australian or global companies have been supporting us since the beginning.
